@@ -8,7 +8,7 @@
 
 ## Step 1: Download Obsidian
 
-head to [obsidian.md](https://obsidian.md/) and click the download button. Then install and open the app.
+1. head to [obsidian.md](https://obsidian.md/) and click the download button. Then install and open the app.
 
 ## Step 2: Create a Vault
 
