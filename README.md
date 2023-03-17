@@ -103,7 +103,7 @@
 6. To create your first daily note, cmd+P and then enter "today" in the command bar and hit enter. a new note with todays date will be created in the `DailyJournal` folder using [[Daily Journal Entry Template]]
  
  
- Setting up a daily note with Periodic Notes Community Plugin: ![[Screen Shot 2023-03-17 at 11.54.30 AM.png]]
+	 Setting up a daily note with Periodic Notes Community Plugin: ![setup_periodic_daily_note.png](Utils/Data/Images/setup_periodic_daily_note.png)
 
 ### Quick Add
 1. install it
@@ -113,4 +113,4 @@
 > [!note] Note
 > You can see the `Various Complements` Community Plugin in action where it auto completes the ticket note linking for me!!
 
-![[Screen Recording 2023-03-17 at 12.12.14 PM.mov]]
+![create a quick add command](Utils/Data/Videos/create_quick_add_command.mov)
