@@ -1,4 +1,5 @@
-This is not an obsidian vault as it doesn't include a `.obsidian` directory. This was excluded as you should create your own vault so that Obsidian can generate a unique workspace id for you.
+> [!info] 
+> This is not an obsidian vault as it doesn't include a `.obsidian` directory. This was excluded as you should create your own vault so that Obsidian can generate a unique workspace id for you.
 
 # Getting Started
 
