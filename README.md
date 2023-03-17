@@ -19,7 +19,7 @@ head to [obsidian.md](https://obsidian.md/) and click the download button. Then 
 
 ## Learning Resources
 
-  
+- [Obsidian Official Docs](https://help.obsidian.md/Obsidian/Index) (hint: it is just an Obsidian vault they publish which is pretty cool!)
 - [Nicole van der Hoeven's Youtube channel](https://www.youtube.com/@nicolevdh)
 - [Nicole's Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
 - [Good basic beginner article](https://medium.com/dare-to-be-better/a-beginners-guide-to-creating-a-medium-knowledge-base-in-obsidian-ab7c4cc06b3b)
